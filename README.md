@@ -2,7 +2,7 @@
 
 Hi, I am Rosa and I’ve always loved to learn so one day I decided to take a dive into the sea of technology and here I am. I started with systems engineering, web development and bites of the cloud with Azure and GCP.
 
-	Before my technology interest I studied a career in music and I am currently violoncello teacher and also play in a contemporary chamber music group where I get fun with new composers, improvising and exploring with sounds, that’s why my musi of Rosa-musi.
+Before my technology interest I studied a career in music and I am currently violoncello teacher and also play in a contemporary chamber music group where I get fun with new composers, improvising and exploring with sounds, that’s why my musi of Rosa-musi.
 
 Now I’m doing:
 
