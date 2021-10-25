@@ -21,6 +21,14 @@ I’m learning:
 -	React.
 -	Git/GitHub.
 
+Ask me about:
+
+- Web development.
+- Music.
+- Cats.
+- Cooking.
+- Hiking.
+
 I am looking forward to get my first job in technology and doing it with all the things that I am and now beside my technical knowledge.
 
 You can reach me in linkedin:
