@@ -20,7 +20,7 @@ I’m learning:
 -	Git/GitHub.
 
 
-![]('animated-line-train.gif')
+![]('https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0140.gif')
 
 
 About me
