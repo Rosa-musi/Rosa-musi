@@ -19,7 +19,7 @@ I’m learning:
 -	React.
 -	Git/GitHub.
 
-<img src='https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0140.gif' alt="push">
+<img align="center" src='https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0140.gif' alt="push">
 
 
 About me
