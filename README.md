@@ -19,8 +19,7 @@ I’m learning:
 -	React.
 -	Git/GitHub.
 
-
-![]('https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0140.gif')
+<img src='https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0140.gif' alt="push">
 
 
 About me
