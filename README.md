@@ -1,15 +1,15 @@
-#### Hello world 🌎
+## Hello world 🌎
 
 Hi, I am Rosa and I’ve always loved to learn so one day I decided to take a dive into the sea of technology and here I am. I started with systems engineering, web development and bites of the cloud ☁ with Azure and GCP.
 
-## Now I’m doing:
+#### Now I’m doing:
 
 -	Studying **systems engendering**  (just started my specialization classes in blockchain).
 -	Doing a **GCP course** with google cloud (looking for the certification).
 -	**Laboratoria:** a whole new world to me where I could learn **web development**, soft skills and a lot more.
 
 
-## I’m learning:
+#### I’m learning:
 
 -	GCP fundamentals.
 -	HTML.
@@ -21,7 +21,7 @@ Hi, I am Rosa and I’ve always loved to learn so one day I decided to take a di
 
 
 
-## About me
+#### About me
 
 - Before my technology interest I studied a career in music and I am currently violoncello teacher and also play in a contemporary chamber music group where I get fun with new composers, improvising and exploring with sounds, that’s why my musi of Rosa-musi.
 - I have two cats 🐈🐈‍ <img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0031.gif" atl="cat">
